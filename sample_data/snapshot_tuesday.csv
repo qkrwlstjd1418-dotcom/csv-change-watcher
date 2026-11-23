@@ -1,0 +1,8 @@
+sku,name,price,stock,status
+SKU-1001,Cotton tee,21.0,240,active
+SKU-1002,Wool socks,9.5,0,sold out
+SKU-1003,Canvas bag,34.0,71,active
+SKU-1004,Linen shirt,54.0,132,active
+SKU-1005,Leather belt,42.0,54,active
+SKU-1007,Merino scarf,29.0,160,active
+SKU-1008,Travel mug,24.0,45,active
